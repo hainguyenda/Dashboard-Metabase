@@ -1,2 +1,2 @@
-# Sales-Dashboard-Metabase
+# Dashboard-Metabase
 Metabase dashboard project using BigQuery 
